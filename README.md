@@ -19,3 +19,8 @@ I am entusiast mobile developer witch  profecional experience in Android and med
 [![Twitter](https://img.shields.io/badge/Twitter-@victoralfon920-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/victoralfon920)
 
 
+## Contact me:
+
+[![Email](https://img.shields.io/badge/Yahoo-victoralfonso92-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.yahoo.com)
+
+[![Email](https://img.shields.io/badge/Gmail-victoralfonso920-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://gmail.com)
