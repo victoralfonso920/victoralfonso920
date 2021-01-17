@@ -3,7 +3,9 @@
 
 ![https://github.com/victoralfonso920](https://lh3.googleusercontent.com/b6SU9q0uOFlPzLBi7nly_Of0vBXQ_2F_cg3Clul1ImIJVkRdlVMlUUhiTl9HBd00e23k31lwRzc0MtNOxQf1aCT36PHMOGawVoajS5W91UEoF_IV0D9vs62Gd2QyFNy9l0XTdLl5fr4s-Pm9C0eafcXoeCSkYVnzEgPx0q_5IELqDqSS__eAKxx_gXzwYJ7E1AP0vA9JuZy0vvtPfuKXdAUFbjzT3eJYRmTOH4wlQp0ovMmG1ZyxOImFveXBSpqISOHtJ-9tjZDli-4O-8zTuUFiS72Nu0-wioAFmVubZ6f7X2xszvOxhfPKU_zPlkflY6FUK7WmCfw-O_9i2zij41Tzrd6hVzd-ATlJJPjRMhl-doNziU4ayWtKa9KqadHgmK11YxS86DzKs0THTMhPdf41bIBJ-6QzExaZJptpfcLLigmys_fljE_Hr2KaL8xnVwFaIVT5SH0j_EUFhc5wBjl7iQamhdDmxvIBNY3_YodQkl4BT4LwIQ1AF2ESK2RI9ORfqrhoZnI03csUrorxXJHK9SVa1t2SPM2Ygo2hQoGb7HSSdZq7r9gxFBSB_DJ3GmKsNFvJhtJYKsuYDtZDyIriGl7wN6LAhIqxf3Kz-u8_ry4OYnYa4ac-zMXLj1nXCmOOzFIN32LbvVkM1np_m13UbhOkdzxmn0-wXWgCnwIpfSNQc2oni1F3Ab89bg=w1147-h373-no?authuser=0)
 
-I am entusiast mobile developer witch  profecional experience in Android and medium experience in IOS and Flutter.
+I'm a entusiast mobile developer witch profecional experience in Android and medium experience in IOS and Flutter.
+
+I'm a professional software developer for more than eigth years.  In 2011 init my carrier for developer . Since then I have dedicated myself to specializing in mobile application development, collaborating with companies awesome, creating more than 30 Apps and learnding day in day. 
 
 
 ## Skills:
@@ -18,9 +20,69 @@ I am entusiast mobile developer witch  profecional experience in Android and med
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victor-alfonso-hernández-siliezar-628a86135)
 [![Twitter](https://img.shields.io/badge/Twitter-@victoralfon920-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/victoralfon920)
 
+## Some apps from my portfolio:
+
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://play.google.com/store/apps/details?id=com.hugoapp.client&hl=es-419">
+  		<img src="https://lh3.googleusercontent.com/XblDxQ9NEOogr-8fogjTjqnSrW3ufFq926-tBZ8Q-s9VqbIAtndut-X0_XxOC9WRTOoM=s180-rw">
+	</a>
+	</td>
+    <td>
+	<a href="https://play.google.com/store/apps/details?id=com.yummy.customer&hl=es&gl=US">
+  		<img src="https://play-lh.googleusercontent.com/VdssJ0c7j1mTuB7aJHMQqOooxSke4fpRzI2rae2QSyDUp8qJ8dh4XdFPa3z6nFy7Vb4=s180-rw">
+	</a>
+	</td>
+    <td>
+	<a href="https://play.google.com/store/apps/details?id=com.mobilesv.lacalaca&hl=es-419">
+  		<img src="https://lh3.googleusercontent.com/1CBGuSX2tlErRZcNlmOtuPvAb2bzRKpH_Yi1afR_pe1jbJ_gPP_qS2_StQMG1ekgdv4=s180-rw">
+	</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="https://play.google.com/store/apps/details?id=com.mobilesv.mor&hl=es-419">
+  		<img align="middle" src="https://lh3.googleusercontent.com/54EJ0FMW07WpH_zyQ-7eWbZyF0HpEsk5YpBgMTI-P_7tUiNkmsLMTCv_iFnlAYW-N8I=s180-rw">
+	</a>
+	</td>
+	<td>
+	<a href="https://play.google.com/store/apps/details?id=com.mobilesv.trans_express&hl=es-419">
+  		<img src="https://lh3.googleusercontent.com/dU54veHDReFvxO3iDzJF_w317Coe8ifzQHNaY3aIXWHFnNt2xyrLfemuvV0XlPrBMyw=s180-rw">
+	</a>
+	</td>
+   <td>
+	<a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android&hl=es-419">
+  		<img src="https://lh3.googleusercontent.com/IzmMh_gGvYA-bmxC5Qb_dgDwZZKx6g3kLJGgKb5RyC4PuEEaE8JHSesqu72vCB7lssY=s180-rw">
+	</a>
+	</td>
+  </tr>
+    <tr>
+    <td>
+	<a href="https://play.google.com/store/apps/details?id=mobilesv.gourmetexpress&hl=es">
+  		<img src="https://play-lh.googleusercontent.com/ZZaesoahYW26mw0wUj0qe7OHprNeiofls-gsCYQqdKbf4KK67c1_vkV9WEBMeg-VGdUR=s180-rw">
+	</a>
+	</td>
+	<td>
+	<a href="https://play.google.com/store/apps/details?id=com.mobilesv.ccsb&hl=es">
+  		<img src="https://play-lh.googleusercontent.com/4gZPcDv55kvRxv1c79zH9yatX-XGpinANmjLM-6ngbhDYl_SYzOdtKTURuBfKoknzKk=s180-rw">
+	</a>
+	</td>
+   <td>
+	<a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline">
+  		<img src="https://lh3.googleusercontent.com/Wc1JWcw-eJLhUm-LFe7LPTZA7_hRfq-OhX6vslyn4S45ulwP_iMVx1VoEtHQntORgcd6=s180-rw">
+	</a>
+	</td>
+  </tr>
+</table>
+</table>
 
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/Yahoo-victoralfonso92-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.yahoo.com)
 
 [![Email](https://img.shields.io/badge/Gmail-victoralfonso920-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://gmail.com)
+
+
+
+
