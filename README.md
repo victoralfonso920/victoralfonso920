@@ -15,11 +15,7 @@ I am entusiast mobile developer witch  profecional experience in Android and med
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-@victoralfon920-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lime_cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victor-alfonso-hernández-siliezar-628a86135)
+[![Twitter](https://img.shields.io/badge/Twitter-@victoralfon920-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/victoralfon920)
 
-## Contact me:
 
-[![Email](https://img.shields.io/badge/victoralfonso92@yahoo.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
-
-[![Email](https://img.shields.io/badge/victoralfonso920@gmail.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
