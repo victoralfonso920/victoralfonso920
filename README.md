@@ -3,10 +3,9 @@
 
 ![https://github.com/victoralfonso920](https://raw.githubusercontent.com/victoralfonso920/victoralfonso920/main/banner.jpg)
 
-I'm a entusiast mobile developer witch profecional experience in Android and medium experience in IOS and Flutter.
+I'm mobile developer with several years of experience on Android also IOS and Flutter enthusiast.
 
-I'm a professional software developer for more than eigth years.  In 2011 init my carrier for developer . Since then I have dedicated myself to specializing in mobile application development, collaborating with companies awesome, creating more than 30 Apps and learnding day in day. 
-
+I've been a software engineer for more than eigth years. I started my journet in software development back then in 2011, since then I've been dedicating myself to collaborate with great companies, delivering more than 30 mobile Apps and learning every single day.
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
