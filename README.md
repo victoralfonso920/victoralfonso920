@@ -18,7 +18,7 @@ I've been a software engineer for more than eigth years. I started my journet in
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victor-alfonso-hernández-siliezar-628a86135)
 [![Twitter](https://img.shields.io/badge/Twitter-@victoralfon920-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/victoralfon920)
-[![Playstore](https://img.shields.io/badge/PlayStore-MiCV-1DA1F2?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=com.devs.victorhernandez.myapp&hl=es)
+[![Playstore](https://img.shields.io/badge/PlayStore-MiCV-1DA1F2?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=com.devs.victorhernandez.myapp&hl=es)
 
 ## My profile app:
 
@@ -82,7 +82,7 @@ I've been a software engineer for more than eigth years. I started my journet in
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Yahoo-victoralfonso92-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.yahoo.com)
+[![Email](https://img.shields.io/badge/Yahoo-victoralfonso92-44a3f1?style=for-the-badge&logo=yahoo&logoColor=white&labelColor=101010)](https://mail.yahoo.com)
 
 [![Email](https://img.shields.io/badge/Gmail-victoralfonso920-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://gmail.com)
 
