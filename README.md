@@ -21,6 +21,15 @@ I've been a software engineer for more than eigth years. I started my journet in
 [![Playstore](https://img.shields.io/badge/PlayStore-MiCV-1DA1F2?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=com.devs.victorhernandez.myapp&hl=es)
 
 ## My profile app:
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://play.google.com/store/apps/details?id=com.hugoapp.client&hl=es-419">
+  		<img src="https://play-lh.googleusercontent.com/K76H8nuwDSNdCiLhK7ncZZlr1c43vs1EBuhiZfl1LJ8czoZZzdgYXW6s-U3VWyqdDous=s180-rw">
+	</a>
+	</td>
+  </tr>
+</table>
 
 
 ## Some apps from my portfolio:
@@ -28,8 +37,8 @@ I've been a software engineer for more than eigth years. I started my journet in
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://play.google.com/store/apps/details?id=com.hugoapp.client&hl=es-419">
-  		<img src="https://lh3.googleusercontent.com/XblDxQ9NEOogr-8fogjTjqnSrW3ufFq926-tBZ8Q-s9VqbIAtndut-X0_XxOC9WRTOoM=s180-rw">
+	<a href="https://play.google.com/store/apps/details?id=com.devs.victorhernandez.myapp&hl=es">
+  		<img src="https://play-lh.googleusercontent.com/K76H8nuwDSNdCiLhK7ncZZlr1c43vs1EBuhiZfl1LJ8czoZZzdgYXW6s-U3VWyqdDous=s180-rw">
 	</a>
 	</td>
     <td>
@@ -82,7 +91,7 @@ I've been a software engineer for more than eigth years. I started my journet in
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Yahoo-victoralfonso92-44a3f1?style=for-the-badge&logo=yahoo&logoColor=white&labelColor=101010)](https://mail.yahoo.com)
+[![Email](https://img.shields.io/badge/Yahoo-victoralfonso92-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.yahoo.com)
 
 [![Email](https://img.shields.io/badge/Gmail-victoralfonso920-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://gmail.com)
 
