@@ -38,7 +38,7 @@ I've been a software engineer for more than eigth years. I started my journet in
   <tr>
     <td>
 	<a href="https://play.google.com/store/apps/details?id=com.devs.victorhernandez.myapp&hl=es">
-  		<img src="https://play-lh.googleusercontent.com/K76H8nuwDSNdCiLhK7ncZZlr1c43vs1EBuhiZfl1LJ8czoZZzdgYXW6s-U3VWyqdDous=s180-rw">
+  		<img src="https://play-lh.googleusercontent.com/luPsXEeC6lkwLeGm1oXIobh_pEV4-ktGM3wwVvjsUHVzq8euAZja54AmpGy290lpfyGZ=s180-rw">
 	</a>
 	</td>
     <td>
