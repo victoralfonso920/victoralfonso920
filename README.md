@@ -25,7 +25,8 @@ I've been a software engineer for more than eigth years. I started my journet in
 [![Playstore](https://img.shields.io/badge/PlayStore-MiCV-1DA1F2?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=com.devs.victorhernandez.myapp&hl=es)
 
 ## My Tracking:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victoralfonso920&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victoralfonso920&theme=dark&hide_border=true)
+
 
 ## My profile app:
 <table style="width:100%">
