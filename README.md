@@ -59,6 +59,11 @@ I've been a software engineer for more than eigth years. I started my journet in
   		<img src="https://lh3.googleusercontent.com/1CBGuSX2tlErRZcNlmOtuPvAb2bzRKpH_Yi1afR_pe1jbJ_gPP_qS2_StQMG1ekgdv4=s180-rw">
 	</a>
 	</td>
+	        <td>
+	<a href="https://play.google.com/store/apps/details?id=com.devs.victorhernandez.sendwhatmenssage&hl=es">
+  		<img src="https://play-lh.googleusercontent.com/zk4v9pCcslRIJUITCavi2-wmSganCJz-kaPkaBolDW_xRpIr0_SzB4tWGFWbY9bUByFf=s180-rw">
+	</a>
+	</td>
   </tr>
   <tr>
     <td>
@@ -76,10 +81,15 @@ I've been a software engineer for more than eigth years. I started my journet in
   		<img src="https://lh3.googleusercontent.com/IzmMh_gGvYA-bmxC5Qb_dgDwZZKx6g3kLJGgKb5RyC4PuEEaE8JHSesqu72vCB7lssY=s180-rw">
 	</a>
 	</td>
+	        <td>
+	<a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline">
+  		<img src="https://play-lh.googleusercontent.com/0LAZ3HsCtvZSHgB_VrtTyvMrKC-Ugwj0NpDlIVDg4Pfk81DskozyFj2IkKMj37X9Uw=s180-rw">
+	</a>
+	</td>
   </tr>
     <tr>
     <td>
-	<a href="https://play.google.com/store/apps/details?id=mobilesv.gourmetexpress&hl=es">
+	<a href="https://play.google.com/store/apps/details?id=com.diimo&hl=es">
   		<img src="https://play-lh.googleusercontent.com/ZZaesoahYW26mw0wUj0qe7OHprNeiofls-gsCYQqdKbf4KK67c1_vkV9WEBMeg-VGdUR=s180-rw">
 	</a>
 	</td>
@@ -91,6 +101,11 @@ I've been a software engineer for more than eigth years. I started my journet in
    <td>
 	<a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline">
   		<img src="https://lh3.googleusercontent.com/Wc1JWcw-eJLhUm-LFe7LPTZA7_hRfq-OhX6vslyn4S45ulwP_iMVx1VoEtHQntORgcd6=s180-rw">
+	</a>
+	</td>
+	      <td>
+	<a href="https://play.google.com/store/apps/details?id=com.mobilesv.pagalo&hl=es">
+  		<img src="https://play-lh.googleusercontent.com/G2GBiYXy1AmsgShbSiS-7kP2oTkuI6BCgvswFSUnl1F5YjhHk7ivfXzJC7iFndKgYQ=s180-rw">
 	</a>
 	</td>
   </tr>
